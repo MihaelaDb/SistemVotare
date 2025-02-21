@@ -1,0 +1,6 @@
+[submodule "Blockchain-Project"]
+	path = Blockchain-Project
+	url = https://github.com/MihaelaDb/SistemVotare.git
+[submodule "TripSplitAPI"]
+	path = TripSplitAPI
+	url = https://github.com/MihaelaDb/SistemVotare.git
